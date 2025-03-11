@@ -2,7 +2,7 @@ import meraki
 import datetime
 import pandas as pd
 
-API_KEY = '7670f3d290a23ae3457b894d369707f6a2beb642'
+API_KEY = ''
 
 dashboard = meraki.DashboardAPI(API_KEY)
 
